@@ -6,7 +6,7 @@ We will use this organization to store all repositories we want to share with th
 Membership
 ==========
 
-If you want to become a member of the organization, either create an issue in the .github repository, or simply write an e-mail with your github account name to the owners.
+If you want to become a member of the organization, either [create an issue in the .github repository](https://github.com/IACT-Interferometry/.github/issues), or simply write an e-mail with your github account name to the owners.
 
 
 Current owners
