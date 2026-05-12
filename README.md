@@ -12,7 +12,7 @@ If you want to become a member of the organization, either create an issue in th
 Current owners
 ==============
 
-T. Hassan
-C. Ingenhuett
-P. Saha
+* T. Hassan
+* C. Ingenhuett
+* P. Saha
 
